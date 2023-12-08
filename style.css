@@ -1,0 +1,22 @@
+ body,
+ h1,
+ table{
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ table {
+    border-collapse: collapse;
+    border:1pt solid #D8D9DA;
+    font-size: 12px;
+
+}
+head.th {
+    background-color:  #D6EFED;
+    text-align: center;
+    padding: 5px;
+}
+td {
+    padding: 5px;
+}
